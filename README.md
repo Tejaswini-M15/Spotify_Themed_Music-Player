@@ -13,11 +13,9 @@ A sleek, responsive, Spotify-inspired music player built using **HTML**, **CSS**
 - Keyboard shortcut (Spacebar) for play/pause
 
 ## Screenshots
-![image](https://github.com/user-attachments/assets/cd8a4978-b0ce-4f0a-8dda-810efd161c73)
-
 ![image](https://github.com/user-attachments/assets/588db503-586c-4a67-9c08-125b7320a00e)
 
-Responsiveness for phone 
+- Responsiveness for phone 
 
 ![image](https://github.com/user-attachments/assets/6ac74e59-6425-4e87-979a-5a83e5a1d057)
 
