@@ -16,10 +16,12 @@ A sleek, responsive, Spotify-inspired music player built using **HTML**, **CSS**
 ![image](https://github.com/user-attachments/assets/588db503-586c-4a67-9c08-125b7320a00e)
 
 - Responsiveness for phone 
+![image](https://github.com/user-attachments/assets/97ec88c5-184b-40a6-9c9e-bc7b2e5d12ed)
 
-![image](https://github.com/user-attachments/assets/6ac74e59-6425-4e87-979a-5a83e5a1d057)
 
 ![image](https://github.com/user-attachments/assets/f65a6c03-61a5-4954-b19a-1f796ae5b703)
+![image](https://github.com/user-attachments/assets/7daa77fb-eedf-419e-ace4-cdabc0235bc0)
+
 
 
 ## How to Use
