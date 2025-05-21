@@ -31,23 +31,7 @@ A clean and responsive music player inspired by Spotify, built using HTML, CSS, 
 3.  Make sure your folder structure looks like this:
 #### Folder Structure 🗂️
 
-your-project/
-├── index.html
-├── style.css
-├── script.js
-├── img/
-│   ├── play.svg
-│   ├── pause.svg
-│   ├── music.svg
-│   ├── volume.svg
-│   └── mute.svg
-├── songs/
-│   ├── album1/
-│   │   ├── song1.mp3
-│   │   ├── info.json
-│   │   └── cover.jpeg
-│   └── album2/
-│       └── ...
+<pre> ``` your-project/ ├── index.html ├── style.css ├── script.js ├── img/ │ ├── play.svg │ ├── pause.svg │ ├── music.svg │ ├── volume.svg │ └── mute.svg ├── songs/ │ ├── album1/ │ │ ├── song1.mp3 │ │ ├── info.json │ │ └── cover.jpeg │ └── album2/ │ └── ... ``` </pre>
 
 4. Head over to `http://127.0.0.1:5500/` in your browser
 5. Click any album to enjoy your music 🎶  
