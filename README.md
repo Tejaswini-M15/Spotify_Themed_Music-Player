@@ -28,6 +28,11 @@ A clean and responsive music player inspired by Spotify, built using HTML, CSS, 
 ## How to Use 🧠
 
 1. Clone or download this repo  
+
+```
+git clone https://github.com/your-username/spotifyclone.git
+cd spotifyclone
+```
 2. Open it with VS Code & start Live Server 🖥️
 3.  Make sure your folder structure looks like this:
 #### Folder Structure 🗂️
